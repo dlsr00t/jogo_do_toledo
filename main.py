@@ -71,7 +71,7 @@ while True:
         if ultima == True:
             os.system("clear") 
             print("Voce Acertou todas!!!")
-            print("FIM")
+            print("\U00002620\U0001F525SEU FOGO ESTA MORTO\U0001F525\U00002620")
             sleep(3)
             exit()
 
