@@ -3,6 +3,8 @@ from time import sleep
 
 
 ultima = False
+print("Acerte todas as questoes para ganhar o quiz!")
+sleep(5)
 while True:
     while True:
         os.system("clear")
@@ -73,7 +75,11 @@ while True:
             print("Voce Acertou todas!!!")
             print("\U00002620\U0001F525SEU FOGO ESTA MORTO\U0001F525\U00002620")
             sleep(3)
+            print("Alunos: Raphael Duboc Toledo, Livia Rostirolla Ramos, Leonardo Gemellaro Oehler")
+            print("Turma:  2º Serie")
+            print("Data: 21/11/2022")
             exit()
+
 
 
 
